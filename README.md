@@ -20,4 +20,4 @@ by Group: 466_Project (Chenge Liu, Tingyang Jiao, Hao Gu, Kaiwen Zhang, Qian Zha
 <p align="center"><img width="100%" src="modify_models.png" /></p>
 
 - Run the code till the 3rd from last part ("define the model") to get graphs
-- Run the code tull the final part is used to generate output by the trained model
+- Run the code till the end to generate output by the trained model (By default the maximum input length is 30 letters including the blank space)
