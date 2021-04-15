@@ -14,6 +14,10 @@ by Group: 466_Project (Chenge Liu, Tingyang Jiao, Hao Gu, Kaiwen Zhang, Qian Zha
 ## How to use the project
 
 - Download the file: model_now.ipynb
-- Open it using Jupyter Notebook or Colab
+- Open it on Jupyter Notebook or Colab
+- If you want to change the model, uncomment the line of "SimpleRNN" and comment the line of "GRU".
+
+<p align="center"><img width="100%" src="modify_model.png" /></p>
+
 - Run the code till the 3rd from last part ("define the model") to get graphs
 - Run the code tull the final part is used to generate output by the trained model
